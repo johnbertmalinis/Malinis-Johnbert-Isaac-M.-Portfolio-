@@ -4,6 +4,7 @@
 📌 Johnbert Isaac M. Malinis
 
 🗂️ TABLE OF CONTENTS
+
 ⚡ Activity #1: Working with Digital Signals
 Date: September 19, 2025
 Objectives:
