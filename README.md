@@ -1,4 +1,5 @@
 📖 COSC 111B - CS Elective 3: Internet of Things
+
 1st Semester, 4th Year BSCS 4B Instructor: Sir Johnroe Paulo Cañamaque
 
 📌 Johnbert Isaac M. Malinis
@@ -9,6 +10,7 @@
 
 Date: September 19, 2025
 Objectives:
+
 Review Arduino as a device for IoT systems implementation.
 Discuss digital signals and their implementation in an Arduino circuit.
 
@@ -16,6 +18,7 @@ Discuss digital signals and their implementation in an Arduino circuit.
 
 Date: September 6, 2025
 Objectives:
+
 Discuss analog signals and its implementation in a Arduino circuit.
 Understand analog to digital signal conversion using the map() function.
 
@@ -23,6 +26,7 @@ Understand analog to digital signal conversion using the map() function.
 
 Date: Oct 10, 2025
 Objectives:
+
 Familiarize students with the basic sensor components that can be used in IoT.
 Integrate these sensor components in an Arduino circuit.
 Create a simple implementation of a fire sensor.
@@ -31,6 +35,7 @@ Create a simple implementation of a fire sensor.
 
 Date: October 25, 2025
 Objectives:
+
 Understand and Implement Arduino Serial Connection.
 Utilize and familiarize students on different basic Serial connection functions.
 Create a simple circuit that can be controlled using Serial connection.
@@ -39,6 +44,7 @@ Create a simple circuit that can be controlled using Serial connection.
 
 Date: December 6, 2025
 Objectives:
+
 Understand and implement Arduino Serial Connection.
 Utilize Python as a tool for implementing serial connection.
 Create a simple circuit that can be controlled using Serial connection using Arduino and Python.
@@ -46,7 +52,9 @@ Create a simple circuit that can be controlled using Serial connection using Ard
 ⚡ Activity #6: Bidirectional Control Using Arduino and Python
 
 Date: December 20, 2025
+
 Objectives:
+
 Understand and Implement Arduino Serial Connection.
 Utilize Python as a tool for implementing serial connection.
 Create a simple circuit what will implement bi-directional connection between Arduino and Python.
