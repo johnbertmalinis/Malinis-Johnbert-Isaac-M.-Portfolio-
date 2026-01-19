@@ -1,10 +1,9 @@
-# 📖 COSC 111B - CS Elective 3: Internet of Things
+# COSC 111B - CS Elective 3: Internet of Things
 **1st Semester, 4th Year BSCS 4B** **Instructor:** Sir Johnroe Paulo Cañamaque  
 
 ---
 
-## 📌 Mark Aaron A. Mayor
-  “Well, once there was always dark. If you ask me, the light’s winning. - Rust Cohle”
+## Johnbert Isaac M. Malinis
   
 ### **INFORMATION**
 * 21 Years Old
@@ -12,9 +11,9 @@
 
 ---
 
-## 🗂️ TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
-### **⚡ Activity #1: Working with Digital Signals**
+### ** Activity #1: Working with Digital Signals**
 * **Date:** September 19, 2025
 * **Objectives:**
   1. Review Arduino as a device for IoT systems implementation.
@@ -22,7 +21,7 @@
 
 --- 
 
-### **⚡ Activity #2: Working with Analog Signals**
+### ** Activity #2: Working with Analog Signals**
 * **Date:** September 6, 2025
 * **Objectives:**
   1. Discuss analog signals and its implementation in a Arduino circuit.
@@ -30,7 +29,7 @@
 
 --- 
 
-### **⚡ Activity #3: Working with Sensors**
+### ** Activity #3: Working with Sensors**
 * **Date:** Oct 10, 2025
 * **Objectives:**
   1. Familiarize students with the basic sensor components that can be used in IoT.
@@ -39,7 +38,7 @@
 
 --- 
 
-### **⚡ Activity #4: Arduino Serial Connection**
+### ** Activity #4: Arduino Serial Connection**
 * **Date:** October 25, 2025
 * **Objectives:**
   1. Understand and Implement Arduino Serial Connection.
@@ -48,7 +47,7 @@
 
 --- 
 
-### **⚡ Activity #5: Receiving Serial Connection Using Arduino From Python**
+### ** Activity #5: Receiving Serial Connection Using Arduino From Python**
 * **Date:** December 6, 2025
 * **Objectives:**
   1. Understand and implement Arduino Serial Connection.
@@ -57,7 +56,7 @@
 
 --- 
 
-### **⚡ Activity #6: Bidirectional Control Using Arduino and Python**
+### ** Activity #6: Bidirectional Control Using Arduino and Python**
 * **Date:** December 20, 2025
 * **Objectives:**
   1. Understand and Implement Arduino Serial Connection.
@@ -66,7 +65,7 @@
 
 --- 
 
-### **⚡ Activity #7: Controlling Arduino using FastAPI**
+### ** Activity #7: Controlling Arduino using FastAPI**
 * **Date:** January 17, 2025
 * **Objectives:**
   1. Understand and Implement Arduino Serial Connection.
@@ -75,10 +74,10 @@
 
 --- 
 
-### **🏆 Midterm Laboratory**
+### ** Midterm Laboratory**
 * **Date:** November 2025
 
-### **🏆 Finals Laboratory**
+### ** Finals Laboratory**
 * **Date:** January 2026
 
 --- 
