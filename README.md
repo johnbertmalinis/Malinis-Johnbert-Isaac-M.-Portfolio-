@@ -5,10 +5,6 @@
 
 ## Johnbert Isaac M. Malinis
   
-### **INFORMATION**
-* 21 Years Old
-* August 30, 2004
-
 ---
 
 ## TABLE OF CONTENTS
